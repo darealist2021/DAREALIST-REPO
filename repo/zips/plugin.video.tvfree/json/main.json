@@ -1,0 +1,44 @@
+{
+    "items": [     
+        { 
+            "title": "[COLOR khaki]*** TV Free ***[/COLOR]", 
+            "type": "item", 
+            "link": "", 
+            "thumbnail": "", 
+            "fanart": "",
+            "summary": "[COLOR khaki]TV Shows[/COLOR]"
+        },
+        { 
+            "title": "[COLOR white]New Episodes[/COLOR]", 
+            "type": "dir",
+            "link": "https://srstop.link/new-shows",
+            "thumbnail": "", 
+            "fanart": "",
+            "summary": "[COLOR khaki]New Episodes[/COLOR]"
+        },
+        { 
+            "title": "[COLOR white]Browse Latest Shows[/COLOR]", 
+            "type": "dir",
+            "link": "https://srstop.link/browse-shows/1",
+            "thumbnail": "", 
+            "fanart": "",
+            "summary": "[COLOR khaki]Browse Shows[/COLOR]"
+        },
+        { 
+            "title": "[COLOR white]Shows by Genre[/COLOR]", 
+            "type": "dir",
+            "link": "https://srstop.link/tv-shows",
+            "thumbnail": "", 
+            "fanart": "",
+            "summary": "[COLOR khaki]Shows by Genre[/COLOR]"
+        },
+        { 
+            "title": "[COLOR white]Search Shows[/COLOR]", 
+            "type": "dir",
+            "link": "https://srstop.link/search",
+            "thumbnail": "", 
+            "fanart": "",
+            "summary": "[COLOR khaki]Search Shows[/COLOR]"
+        }
+    ]
+}

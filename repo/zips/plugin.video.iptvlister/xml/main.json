@@ -1,0 +1,47 @@
+{
+  "items": [
+        
+    {
+      "type": "dir",
+      "title": "IPTV.ORG (World-Wide)",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/org.png", 
+      "link": "file://iptvorg.json"
+    },
+    {
+      "type": "dir",
+      "title": "TVpass.org (TV and Sports)",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tvpass.png",
+      "link": "https://tvpass.org/playlist/m3u"
+    },    
+    {
+      "type": "dir",
+      "title": "Tubi TV",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tubi.png",      
+      "link": "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u"
+    }, 
+    {
+      "type": "dir",
+      "title": "NexGen: TV and Sports",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/nexgen.png",
+      "link": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Archive/nexgen.m3u8"
+    },
+    {
+      "type": "dir",
+      "title": "Xumo Live TV",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/xumo.png",
+      "link": "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u"
+    },
+    {
+      "type": "dir",
+      "title": "TV-One Live Add-ons",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tvone0.png",  
+      "link": "file://tvone.json"
+    },
+	  {
+      "type": "item",
+      "title": "Cache Settings",
+      "link": "settings"
+    }
+
+	]	
+}

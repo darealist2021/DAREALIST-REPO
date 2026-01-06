@@ -111,6 +111,37 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon><addon id="plugin.video.iptvlister" name="IPTV Lister" version="1.2" provider-name="Jax">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+    <import addon="script.module.unidecode" />
+    <import addon="script.module.inputstreamhelper" />
+    <import addon="script.module.resolveurl" />
+    <import addon="script.module.microjenscrapers" />
+    <import addon="plugin.video.tvone" optional="true" />
+    <import addon="plugin.video.tvone111" optional="true" />
+    <import addon="plugin.video.tvone112" optional="true" />
+    <import addon="plugin.video.tvone1112" optional="true" />
+	  <import addon="plugin.video.youtube" optional="true" /> 
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TV and Sports IPTV</summary>
+    <description lang="en">Live TV channels and Sports from multiple, publicly available, sources. Those sources include other plugin add-ons and direct URL links.[CR]Free IPTV can fail at any time but will hopefully be fixed at the source if they do break.</description>
+    <disclaimer lang="en">The developer of this add-on is not responsible for broken channels which is common with free IPTV </disclaimer>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GPL-2.0-or-later</license>
+    <news>Broken Fluxus removed</news>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+  </assets>
+  </extension>
 </addon><addon id="plugin.video.looptv" name="Loop TV" version="26+matrix.2" provider-name="Munkee - RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />

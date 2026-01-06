@@ -1,0 +1,25 @@
+{
+  "items": [
+      
+    {
+      "type": "dir",
+      "title": "IPTV-ORG Channels by Country",
+      "link": "https://iptv-org.github.io/iptv/index.country.m3u",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/org.png"
+    }, 
+    {
+      "type": "dir",
+      "title": "IPTV-ORG Channels by Category",
+      "link": "https://iptv-org.github.io/iptv/index.category.m3u",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/org.png"
+    }, 
+    {
+      "type": "dir",
+      "title": "IPTV-ORG Channels by Language",
+      "link": "https://iptv-org.github.io/iptv/index.language.m3u",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/org.png"
+    }
+	
+	]
+	
+}

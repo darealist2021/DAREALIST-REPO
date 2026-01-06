@@ -1,0 +1,30 @@
+{
+  "items": [     
+    
+    {
+      "type": "plugin",
+      "title": "TV-TAP",
+      "link": "plugin.video.tvone",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tvone.png"
+    },              
+    {
+      "type": "plugin",
+      "title": "RedBox",
+      "link": "plugin.video.tvone111",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tvone111.png"
+    },
+    {
+      "type": "plugin",
+      "title": "RStv",
+      "link": "plugin.video.tvone112",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tvone112.png"
+    }, 
+    {
+      "type": "plugin",
+      "title": "LiveNet",
+      "link": "plugin.video.tvone1112",
+      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tvone1112.png"
+    }
+	]
+	
+}

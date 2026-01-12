@@ -723,6 +723,32 @@
 		<fanart>fanart.jpg</fanart>
   </assets>
   </extension>
+</addon><addon id="plugin.video.localnow" name="Local Now" version="2025.10.02" provider-name="MetalChris">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0" />
+    <import addon="script.module.requests" version="2.9.1" />
+    <import addon="script.module.inputstreamhelper" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Local Now</summary>
+    <description lang="en">Stream live channels and free on demand movies and TV shows.  Choose from 1300+ movies, shows, and original content.  Watch action, comedy, drama, romance, blockbuster films, timeless classics and more on Local Now.</description>
+    <disclaimer lang="en" />
+    <language />
+    <platform>all</platform>
+    <license>GPL(v2 or later)</license>
+    <forum />
+    <website>https://www.localnow.com</website>
+    <email />
+    <source />
+    <news>Update to fix On Demand Shows and Movies.</news>
+    <assets>
+        <icon>resources/media/icon.png</icon>
+        <fanart>resources/media/fanart.jpg</fanart>
+    </assets>
+  </extension>
 </addon><addon id="plugin.video.looptv" name="Loop TV" version="26+matrix.2" provider-name="Munkee - RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />

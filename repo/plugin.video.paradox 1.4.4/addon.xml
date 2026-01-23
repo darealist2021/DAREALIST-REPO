@@ -1,4 +1,4 @@
-<addon id="plugin.video.paradox" name="[COLORwhite]Paradox AIO[/COLOR]" version="1.4.0" provider-name="">
+<addon id="plugin.video.paradox" name="[COLORwhite]Paradox AIO[/COLOR]" version="1.4.4" provider-name="">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.resolveurl"/>

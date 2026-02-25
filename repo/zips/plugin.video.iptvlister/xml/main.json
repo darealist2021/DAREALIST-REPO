@@ -33,9 +33,9 @@
     },
     {
       "type": "dir",
-      "title": "TV-One Live Add-ons",
-      "thumbnail": "special://home/addons/plugin.video.iptvlister/resources/media/tvone0.png",  
-      "link": "file://tvone.json"
+      "title": "Live Webcams",
+      "thumbnail": "special://home/addons/plugin.video.iptvmonster/resources/icons/webcams.png",
+      "link": "file://webcams.json"
     },
 	  {
       "type": "item",

@@ -1,7 +1,7 @@
 import xbmcaddon
 
 '''#####-----Build File-----#####'''
-buildfile = 'https://the666mafia.com/txt/maintance.xml'
+buildfile = 'https://https://raw.githubusercontent.com/darealist2021/DAREALIST-BUILDS/refs/heads/main/Darealistbuildsnew.xml'
 
 '''#####-----Notifications File-----#####'''
 notify_url  = 'https://'
